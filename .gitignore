@@ -1,0 +1,8 @@
+# Personal learning notes (kept locally, not published)
+notebooks/titanic_notes.ipynb
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
